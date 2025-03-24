@@ -1,4 +1,6 @@
-# Automatic-Music-Generation
+# 🎶 Automatic Music Generation using LSTM
+This project leverages deep learning with LSTM networks to generate classical piano music. Using a curated dataset of 295 MIDI files from 19 legendary composers, the model learns musical patterns and produces new, unique compositions. The generated output is saved in MIDI format, reflecting the rich structure and emotion of classical piano pieces.
+
 
 ## ✅ Folder Structure
 
