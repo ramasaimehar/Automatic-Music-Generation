@@ -54,6 +54,40 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
+# Automatic Music Generation - Dataset Description
+
+## Description of the Dataset
+
+The dataset used in the Automatic Music Generation Project is a collection of classical piano MIDI files sourced from the **"Official Classical Piano MIDI"** repository. MIDI (Musical Instrument Digital Interface) files are a standardized format for representing musical information in a digital form.
+
+The dataset comprises compositions from **19 classical composers**, providing a diverse range of musical styles and structures. The composers include:
+
+1. Albeniz  
+2. Bach  
+3. Balakir  
+4. Beeth  
+5. Borodin  
+6. Brahms  
+7. Burgm  
+8. Chopin  
+9. Debussy  
+10. Granados  
+11. Grieg  
+12. Haydn  
+13. Liszt  
+14. Mendelssohn  
+15. Mozart  
+16. Muss  
+17. Schubert  
+18. Schuman  
+19. Tschai  
+
+Each MIDI file contains information about musical elements such as **notes, chords, tempo, and dynamics**. For this project, the focus is specifically on **piano instrument data** within the MIDI files.
+
+The piano stream in MIDI files includes details like keys, time signatures, chords, and individual notes.
+
+The dataset is organized into separate files with a **total of 295 audio MIDI files**, allowing for the exploration of distinctive compositional styles.
+
 ---
 
 ## 🚀 How to Use
